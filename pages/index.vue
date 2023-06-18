@@ -4,5 +4,6 @@
       <AppAlert>
         This is an auto-imported component
       </AppAlert>
+      <Counter />
     </div>
 </template>
